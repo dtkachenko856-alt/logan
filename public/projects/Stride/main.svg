@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 960" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1440" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#F0FDF4"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#A3E635"/>
+      <stop offset="1" stop-color="#4ADE80"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="960" rx="28" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1384" height="904" rx="22" fill="#fff"/>
+  <rect x="28" y="28" width="240" height="904" rx="22" fill="#172B23"/>
+  <path d="M246 28h22v904h-22z" fill="#172B23"/>
+  <circle cx="76" cy="82" r="22" fill="url(#green)"/>
+  <path d="M66 89l8-15 7 10 7-12" stroke="#17351F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="112" y="90" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="25" font-weight="700">stride</text>
+  <text x="56" y="158" fill="#8EAA98" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">TRAINING</text>
+  <rect x="46" y="178" width="202" height="48" rx="12" fill="#30483A"/>
+  <circle cx="70" cy="202" r="5" fill="#A3E635"/>
+  <text x="88" y="208" fill="#F0FDF4" font-family="Arial,sans-serif" font-size="16" font-weight="600">Today</text>
+  <text x="88" y="270" fill="#C0CEC4" font-family="Arial,sans-serif" font-size="16">My plan</text>
+  <text x="88" y="322" fill="#C0CEC4" font-family="Arial,sans-serif" font-size="16">Activity</text>
+  <text x="88" y="374" fill="#C0CEC4" font-family="Arial,sans-serif" font-size="16">Progress</text>
+  <text x="56" y="452" fill="#8EAA98" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2">YOUR GOAL</text>
+  <text x="56" y="489" fill="#F0FDF4" font-family="Arial,sans-serif" font-size="16" font-weight="600">Build consistency</text>
+  <text x="56" y="518" fill="#A3B7A9" font-family="Arial,sans-serif" font-size="14">3 workouts / week</text>
+  <rect x="56" y="544" width="166" height="7" rx="4" fill="#3E5846"/>
+  <rect x="56" y="544" width="112" height="7" rx="4" fill="#A3E635"/>
+  <text x="56" y="578" fill="#A3B7A9" font-family="Arial,sans-serif" font-size="13">2 of 3 sessions complete</text>
+  <text x="318" y="84" fill="#64748B" font-family="Arial,sans-serif" font-size="14">MONDAY, OCTOBER 20</text>
+  <text x="318" y="132" fill="#172B23" font-family="Arial,sans-serif" font-size="31" font-weight="700">Your week, your pace</text>
+  <text x="318" y="164" fill="#718096" font-family="Arial,sans-serif" font-size="16">A simple plan that adapts to how you feel.</text>
+  <rect x="1135" y="62" width="228" height="46" rx="23" fill="#F1F5F9"/>
+  <circle cx="1163" cy="85" r="15" fill="#D9F99D"/>
+  <text x="1188" y="91" fill="#334155" font-family="Arial,sans-serif" font-size="14" font-weight="600">Logan's plan</text>
+  <rect x="318" y="206" width="670" height="356" rx="20" fill="#F8FAF7" stroke="#E7EEE8"/>
+  <text x="350" y="250" fill="#172B23" font-family="Arial,sans-serif" font-size="19" font-weight="700">Today&apos;s session</text>
+  <rect x="350" y="274" width="606" height="82" rx="14" fill="#17351F"/>
+  <circle cx="394" cy="315" r="23" fill="#A3E635"/>
+  <path d="M389 305l17 10-17 10z" fill="#17351F"/>
+  <text x="433" y="310" fill="#F0FDF4" font-family="Arial,sans-serif" font-size="17" font-weight="600">Strength · Full body</text>
+  <text x="433" y="336" fill="#BAD0BE" font-family="Arial,sans-serif" font-size="14">35 min · Moderate</text>
+  <text x="350" y="397" fill="#718096" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="1">YOUR PLAN</text>
+  <circle cx="366" cy="434" r="15" fill="#E7F4D3"/>
+  <text x="366" y="439" fill="#486C2A" font-family="Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">1</text>
+  <text x="394" y="439" fill="#334155" font-family="Arial,sans-serif" font-size="15" font-weight="600">Warm up</text>
+  <text x="916" y="439" fill="#718096" font-family="Arial,sans-serif" font-size="14" text-anchor="end">5 min</text>
+  <path d="M350 460H956" stroke="#E7EEE8"/>
+  <circle cx="366" cy="489" r="15" fill="#E7F4D3"/>
+  <text x="366" y="494" fill="#486C2A" font-family="Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">2</text>
+  <text x="394" y="494" fill="#334155" font-family="Arial,sans-serif" font-size="15" font-weight="600">Strength circuit</text>
+  <text x="916" y="494" fill="#718096" font-family="Arial,sans-serif" font-size="14" text-anchor="end">24 min</text>
+  <path d="M350 515H956" stroke="#E7EEE8"/>
+  <circle cx="366" cy="544" r="15" fill="#E7F4D3"/>
+  <text x="366" y="549" fill="#486C2A" font-family="Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">3</text>
+  <text x="394" y="549" fill="#334155" font-family="Arial,sans-serif" font-size="15" font-weight="600">Cool down</text>
+  <text x="916" y="549" fill="#718096" font-family="Arial,sans-serif" font-size="14" text-anchor="end">6 min</text>
+  <rect x="1012" y="206" width="352" height="356" rx="20" fill="#F5FBEA" stroke="#E4F0D0"/>
+  <circle cx="1050" cy="249" r="17" fill="#E3F5C6"/>
+  <path d="M1044 249h12M1050 243v12" stroke="#5A852C" stroke-width="2" stroke-linecap="round"/>
+  <text x="1078" y="255" fill="#36531F" font-family="Arial,sans-serif" font-size="17" font-weight="700">Coach note</text>
+  <text x="1042" y="300" fill="#334155" font-family="Arial,sans-serif" font-size="15">You logged two strength</text>
+  <text x="1042" y="325" fill="#334155" font-family="Arial,sans-serif" font-size="15">sessions this week. Today&apos;s</text>
+  <text x="1042" y="350" fill="#334155" font-family="Arial,sans-serif" font-size="15">plan leaves room for recovery.</text>
+  <text x="1042" y="396" fill="#718096" font-family="Arial,sans-serif" font-size="13">Based on your recent activity.</text>
+  <text x="1042" y="417" fill="#718096" font-family="Arial,sans-serif" font-size="13">Adjust it to fit how you feel.</text>
+  <rect x="1042" y="454" width="126" height="40" rx="11" fill="#E3F5C6"/>
+  <text x="1064" y="480" fill="#36531F" font-family="Arial,sans-serif" font-size="13" font-weight="600">Adjust plan</text>
+  <rect x="318" y="590" width="1046" height="298" rx="20" fill="#fff" stroke="#E7EEE8"/>
+  <text x="350" y="635" fill="#172B23" font-family="Arial,sans-serif" font-size="19" font-weight="700">Weekly rhythm</text>
+  <text x="350" y="661" fill="#94A3B8" font-family="Arial,sans-serif" font-size="14">Small, repeatable steps add up.</text>
+  <rect x="350" y="690" width="140" height="150" rx="15" fill="#F5FBEA"/>
+  <text x="370" y="720" fill="#718096" font-family="Arial,sans-serif" font-size="13" font-weight="600">MON</text>
+  <circle cx="420" cy="770" r="20" fill="#D9F99D"/>
+  <path d="M411 770l6 6 12-14" stroke="#42651D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="420" y="820" fill="#486C2A" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Strength</text>
+  <rect x="506" y="690" width="140" height="150" rx="15" fill="#F8FAFC"/>
+  <text x="526" y="720" fill="#718096" font-family="Arial,sans-serif" font-size="13" font-weight="600">TUE</text>
+  <circle cx="576" cy="770" r="20" fill="#E8EDF3"/>
+  <path d="M568 770h16" stroke="#718096" stroke-width="3" stroke-linecap="round"/>
+  <text x="576" y="820" fill="#718096" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Recovery</text>
+  <rect x="662" y="690" width="140" height="150" rx="15" fill="#F5FBEA"/>
+  <text x="682" y="720" fill="#718096" font-family="Arial,sans-serif" font-size="13" font-weight="600">WED</text>
+  <circle cx="732" cy="770" r="20" fill="#D9F99D"/>
+  <path d="M723 770l6 6 12-14" stroke="#42651D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="732" y="820" fill="#486C2A" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Walk</text>
+  <rect x="818" y="690" width="140" height="150" rx="15" fill="#F8FAFC"/>
+  <text x="838" y="720" fill="#718096" font-family="Arial,sans-serif" font-size="13" font-weight="600">THU</text>
+  <circle cx="888" cy="770" r="20" fill="#E8EDF3"/>
+  <path d="M880 770h16" stroke="#718096" stroke-width="3" stroke-linecap="round"/>
+  <text x="888" y="820" fill="#718096" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Rest</text>
+  <rect x="974" y="690" width="140" height="150" rx="15" fill="#F5FBEA"/>
+  <text x="994" y="720" fill="#718096" font-family="Arial,sans-serif" font-size="13" font-weight="600">FRI</text>
+  <circle cx="1044" cy="770" r="20" fill="#D9F99D"/>
+  <path d="M1035 770l6 6 12-14" stroke="#42651D" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="1044" y="820" fill="#486C2A" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Strength</text>
+  <rect x="1130" y="690" width="202" height="150" rx="15" fill="#F8FAFC"/>
+  <text x="1150" y="720" fill="#718096" font-family="Arial,sans-serif" font-size="13" font-weight="600">WEEKEND</text>
+  <circle cx="1231" cy="770" r="20" fill="#E8EDF3"/>
+  <path d="M1223 770h16" stroke="#718096" stroke-width="3" stroke-linecap="round"/>
+  <text x="1231" y="820" fill="#718096" font-family="Arial,sans-serif" font-size="13" text-anchor="middle">Your choice</text>
+</svg>

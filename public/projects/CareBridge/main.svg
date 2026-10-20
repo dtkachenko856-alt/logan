@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 960" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1440" y2="960" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#EEF6FF"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1440" height="960" rx="28" fill="url(#bg)"/>
+  <rect x="28" y="28" width="1384" height="904" rx="22" fill="#fff"/>
+  <rect x="28" y="28" width="242" height="904" rx="22" fill="#142A42"/>
+  <path d="M248 28h22v904h-22z" fill="#142A42"/>
+  <rect x="55" y="57" width="42" height="42" rx="13" fill="url(#accent)"/>
+  <path d="M76 66v24M64 78h24" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+  <text x="110" y="85" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="22" font-weight="700">CareBridge</text>
+  <text x="56" y="150" fill="#8FA7BD" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">CARE TEAM</text>
+  <rect x="46" y="169" width="206" height="46" rx="11" fill="#23415E"/>
+  <circle cx="70" cy="192" r="5" fill="#67D4F4"/>
+  <text x="88" y="198" fill="#EFF8FF" font-family="Arial,sans-serif" font-size="15" font-weight="600">Intake queue</text>
+  <text x="88" y="256" fill="#C4D1DD" font-family="Arial,sans-serif" font-size="15">Patients</text>
+  <text x="88" y="306" fill="#C4D1DD" font-family="Arial,sans-serif" font-size="15">Documents</text>
+  <text x="88" y="356" fill="#C4D1DD" font-family="Arial,sans-serif" font-size="15">Review history</text>
+  <text x="56" y="431" fill="#8FA7BD" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">ACCESS</text>
+  <rect x="56" y="454" width="9" height="9" rx="2" fill="#67D4F4"/>
+  <text x="78" y="463" fill="#C4D1DD" font-family="Arial,sans-serif" font-size="13">Role-based workspace</text>
+  <rect x="56" y="486" width="9" height="9" rx="2" fill="#67D4F4"/>
+  <text x="78" y="495" fill="#C4D1DD" font-family="Arial,sans-serif" font-size="13">Access audit enabled</text>
+  <rect x="56" y="806" width="188" height="88" rx="14" fill="#1C3855"/>
+  <circle cx="82" cy="837" r="13" fill="#D9EAFE"/>
+  <path d="M76 837l4 4 8-9" stroke="#2878B9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="104" y="835" fill="#E5F4FF" font-family="Arial,sans-serif" font-size="13" font-weight="600">Protected workspace</text>
+  <text x="74" y="866" fill="#9DB4C8" font-family="Arial,sans-serif" font-size="11">Concept · review required</text>
+  <text x="316" y="77" fill="#64748B" font-family="Arial,sans-serif" font-size="13">CARE OPERATIONS / INTAKE</text>
+  <text x="316" y="123" fill="#142A42" font-family="Arial,sans-serif" font-size="30" font-weight="700">Patient intake review</text>
+  <text x="316" y="153" fill="#718096" font-family="Arial,sans-serif" font-size="15">Review source documents and prepare a clinician-approved summary.</text>
+  <rect x="1109" y="58" width="255" height="44" rx="11" fill="#F1F5F9"/>
+  <circle cx="1135" cy="80" r="13" fill="#DCEBFA"/>
+  <text x="1158" y="85" fill="#334155" font-family="Arial,sans-serif" font-size="13" font-weight="600">Care team workspace</text>
+  <rect x="316" y="184" width="1048" height="63" rx="14" fill="#EFF8FF" stroke="#D9EFFF"/>
+  <circle cx="347" cy="215" r="15" fill="#D8F1FF"/>
+  <path d="M347 207v9M347 221v1" stroke="#2878B9" stroke-width="2.3" stroke-linecap="round"/>
+  <text x="374" y="210" fill="#285477" font-family="Arial,sans-serif" font-size="14" font-weight="700">AI draft — review required</text>
+  <text x="374" y="231" fill="#58748A" font-family="Arial,sans-serif" font-size="12">This summary is for care-team review and is not a diagnosis or treatment recommendation.</text>
+  <rect x="316" y="269" width="317" height="535" rx="17" fill="#fff" stroke="#E5ECF2"/>
+  <text x="342" y="309" fill="#142A42" font-family="Arial,sans-serif" font-size="17" font-weight="700">Intake documents</text>
+  <text x="342" y="336" fill="#94A3B8" font-family="Arial,sans-serif" font-size="13">3 files · received today</text>
+  <rect x="338" y="358" width="273" height="67" rx="11" fill="#F1F8FE"/>
+  <rect x="354" y="374" width="34" height="36" rx="6" fill="#DDEEFF"/>
+  <path d="M364 383h14M364 389h14M364 395h10" stroke="#3679B8" stroke-width="2" stroke-linecap="round"/>
+  <text x="401" y="386" fill="#334155" font-family="Arial,sans-serif" font-size="13" font-weight="600">Referral summary</text>
+  <text x="401" y="407" fill="#718096" font-family="Arial,sans-serif" font-size="11">PDF · 2 pages</text>
+  <text x="342" y="460" fill="#334155" font-family="Arial,sans-serif" font-size="13" font-weight="600">Medication list</text>
+  <text x="342" y="481" fill="#94A3B8" font-family="Arial,sans-serif" font-size="11">PDF · 1 page</text>
+  <path d="M342 502H607" stroke="#EEF2F6"/>
+  <text x="342" y="538" fill="#334155" font-family="Arial,sans-serif" font-size="13" font-weight="600">Visit notes</text>
+  <text x="342" y="559" fill="#94A3B8" font-family="Arial,sans-serif" font-size="11">DOCX · 4 pages</text>
+  <path d="M342 580H607" stroke="#EEF2F6"/>
+  <rect x="342" y="608" width="265" height="117" rx="11" fill="#F8FAFC"/>
+  <circle cx="366" cy="634" r="12" fill="#E0F2FE"/>
+  <path d="M361 634h10M366 629v10" stroke="#2878B9" stroke-width="1.8" stroke-linecap="round"/>
+  <text x="388" y="639" fill="#475569" font-family="Arial,sans-serif" font-size="12" font-weight="600">Source-linked fields</text>
+  <text x="360" y="675" fill="#718096" font-family="Arial,sans-serif" font-size="11">Select a field in the summary</text>
+  <text x="360" y="694" fill="#718096" font-family="Arial,sans-serif" font-size="11">to review its source document.</text>
+  <rect x="655" y="269" width="709" height="535" rx="17" fill="#fff" stroke="#E5ECF2"/>
+  <text x="683" y="309" fill="#142A42" font-family="Arial,sans-serif" font-size="17" font-weight="700">Draft summary</text>
+  <rect x="1162" y="286" width="174" height="32" rx="16" fill="#FFF7E7"/>
+  <circle cx="1180" cy="302" r="4" fill="#E6A23C"/>
+  <text x="1192" y="307" fill="#95651B" font-family="Arial,sans-serif" font-size="11" font-weight="600">Needs clinician review</text>
+  <path d="M683 337H1336" stroke="#EEF2F6"/>
+  <text x="683" y="374" fill="#64748B" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">REFERRAL REASON</text>
+  <rect x="679" y="387" width="650" height="58" rx="9" fill="#F8FAFC"/>
+  <text x="696" y="413" fill="#334155" font-family="Arial,sans-serif" font-size="13">Request for home-care evaluation following recent discharge.</text>
+  <text x="696" y="433" fill="#2878B9" font-family="Arial,sans-serif" font-size="11">Source: Referral summary · page 1</text>
+  <text x="683" y="480" fill="#64748B" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">CURRENT MEDICATIONS</text>
+  <rect x="679" y="493" width="650" height="58" rx="9" fill="#F8FAFC"/>
+  <text x="696" y="519" fill="#334155" font-family="Arial,sans-serif" font-size="13">Medication details extracted for review.</text>
+  <text x="696" y="539" fill="#2878B9" font-family="Arial,sans-serif" font-size="11">Source: Medication list · page 1</text>
+  <text x="683" y="586" fill="#64748B" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1">FOLLOW-UP NOTES</text>
+  <rect x="679" y="599" width="650" height="58" rx="9" fill="#F8FAFC"/>
+  <text x="696" y="625" fill="#334155" font-family="Arial,sans-serif" font-size="13">Confirm missing details with the referring care team.</text>
+  <text x="696" y="645" fill="#2878B9" font-family="Arial,sans-serif" font-size="11">Source: Visit notes · page 2</text>
+  <rect x="681" y="681" width="652" height="72" rx="11" fill="#F0F9FF"/>
+  <circle cx="706" cy="706" r="12" fill="#D8F1FF"/>
+  <path d="M701 706h10M706 701v10" stroke="#2878B9" stroke-width="1.8" stroke-linecap="round"/>
+  <text x="729" y="707" fill="#285477" font-family="Arial,sans-serif" font-size="12" font-weight="700">AI assistance is limited to organizing source information.</text>
+  <text x="729" y="729" fill="#58748A" font-family="Arial,sans-serif" font-size="11">A clinician must verify this draft before it is used in care.</text>
+  <rect x="1045" y="828" width="140" height="42" rx="11" fill="#fff" stroke="#D9E2EA"/>
+  <text x="1078" y="854" fill="#475569" font-family="Arial,sans-serif" font-size="13" font-weight="600">Save draft</text>
+  <rect x="1198" y="828" width="166" height="42" rx="11" fill="#2678B9"/>
+  <text x="1222" y="854" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="600">Review complete</text>
+</svg>
